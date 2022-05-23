@@ -1,0 +1,47 @@
+[
+	[
+		{
+			"speaker" : "mario",
+			"dialog" :"When shall we three meet again In thunder, lightning, or in rain?",
+			"newSpeaker" : "true"
+		},
+		{
+			"speaker" : "mario",
+			"dialog" : "When the hurlyburly's done,"
+		},
+		{	
+			"speaker" : "mario",
+			"dialog" : "When the battle's lost and won."
+		}
+	],
+	[
+		{
+			"speaker" : "kirby",
+			"dialog" : "That will be ere the set of sun.",
+			"newSpeaker" : "true"
+		},
+		{
+			"speaker" : "kirby",
+			"dialog" : "Where the place?"
+		},
+		{	
+			"speaker" : "wright",
+			"dialog" : "Upon the heath",
+			"newSpeaker" : "true"
+		},
+		{	
+			"speaker" : "wright",
+			"dialog" : "There to meet with Macbeth."
+		},
+		{	
+			"speaker" : "kirby",
+			"dialog" : "I come, Graymalkin!",
+			"newSpeaker" : "true"
+		},
+		{	
+			"speaker" : "wright",
+			"dialog" : "Paddock calls.",
+			"newSpeaker" : "true"
+		}
+	]
+]
